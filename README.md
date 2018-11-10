@@ -340,6 +340,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	</div>
 	</div>
 	<!-- //gallery-->
+	<div>
 	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <script>
   (adsbygoogle = window.adsbygoogle || []).push({
@@ -347,6 +348,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
     enable_page_level_ads: true
   });
 </script>
+</div>
+	
 <!--contact-->
 	<div class="contact" id="contact">
 		<div class="container">
