@@ -201,7 +201,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 								<div class="about-gap clr-green">
 								<span class="fa fa-database" aria-hidden="true"></span
 >								<h3>ANDROID APP DEVELOPMENT</h3>
-                           <p>I wants to be a good APP Developer</p>
+                           <p>I wants to be a pro APP Developer</p>
 								</div>
 								<div class="clearfix"> </div>
 								</div>
@@ -235,6 +235,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			</div>
 		</div>
 		</div>
+		<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-9668830706888724",
+    enable_page_level_ads: true
+  });
+</script>
 				<!--// services-->
 <div class="experience" id="experience">
 	<div class="container">
