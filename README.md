@@ -419,7 +419,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class=" col-md-16 col-sm-16" style="background-color:blue">
               <div class="profile-grid">
               	<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fme.vector.ankitmaurya%2Fposts%2F2200237136969709%3A4&width=500" width="500" height="531" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
-		<a href ="http://www.facebook.com/profilepicframes/?selected_overlay_id=1836858989696669 "><button style="background-color:lightblue" >CLICK HERE FOR FACEBOOK PROFILE FRAME OF IIIT PUNE</button></a>
+		<div><a href ="http://www.facebook.com/profilepicframes/?selected_overlay_id=1836858989696669 "><button style="background-color:lightblue" >CLICK HERE FOR FACEBOOK PROFILE FRAME OF IIIT PUNE</button></a></div>
               	<iframe src="https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2Fme.vector.ankitmaurya%2Fposts%2F2193474707645952&width=500" width="500" height="380" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
               	</div>
 			</div>
