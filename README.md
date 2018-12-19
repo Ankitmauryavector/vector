@@ -38,7 +38,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<!--//stylesheets-->
 
 	<link href="//fonts.googleapis.com/css?family=Montserrat:300,400,500" rel="stylesheet">
-
+<meta name="google-site-verification" content="Zr4XHgH4cppFLVsxh5QbApc6bv9U5Qo5VeOqwYqYmcw" />
 </head>
 <body>
 <!-- navigation section -->
